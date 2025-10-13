@@ -1,0 +1,6 @@
+*
+!.gitignore
+.env
+vendor
+public/storage
+composer.lock
